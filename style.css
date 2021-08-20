@@ -1,0 +1,46 @@
+.container {
+    background-color: whitesmoke;
+    margin: 0px;
+    width: 1024px;
+    }
+     
+    #main-bio {
+    float:left;
+    padding: 20px;
+     
+    }
+     
+    #bio-image {
+    size: 50%;
+    height: 200px;
+    width: 125px;
+    margin: 0px;
+    padding: 0px 16px;
+    float:left;
+    }
+     
+    #contact-info {
+    float:left;
+    width: 20%;
+    }
+     
+    h1 {
+    color: white;
+    background: #333;
+    size: larger;
+    padding: 16px;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    }
+     
+    li {
+    font-size: larger;
+    }
+     
+    body {
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:whitesmoke;
+    }
+    
